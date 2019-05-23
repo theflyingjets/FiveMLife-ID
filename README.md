@@ -15,6 +15,7 @@ Coming soon
 This order also applies in the startup order.
 
 - [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+- [FiveM-Login](https://github.com/theflyingjets/FiveMLife-Login)
 
 ### Download & Installation
 Coming soon
