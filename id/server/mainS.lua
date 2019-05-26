@@ -8,7 +8,7 @@ AddEventHandler("id:GetData", function()
     MySQL.Async.fetchAll("SELECT * FROM idtabel",{}, 
     function(result)
             local source = src
-            local sendid = result[1].id
+            local sendid = result[1].UID
             local sendfn = result[1].firstName
             local sendln = result[1].lastName
             local sendsex = result[1].sex
