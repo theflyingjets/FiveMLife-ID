@@ -16,6 +16,6 @@ Citizen.CreateThread(function(source)
   end)
 
   RegisterNetEvent("RData")
-  AddEventHandler("RData", function(id, firstName, lastName, sex, dob)
-        SendNUIMessage({type = "ui",display = true,fName = firstName,lName = lastName,sE = sex,birth = dob,Num =id})
+  AddEventHandler("RData", function(id, firstName, lastName, sex, dob, height)
+        SendNUIMessage({type = "ui",display = true,fName = firstName,lName = lastName,sE = sex,birth = dob,Num =id, hgt = height})
   end)

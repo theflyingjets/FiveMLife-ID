@@ -13,7 +13,8 @@ AddEventHandler("id:GetData", function()
             local sendln = result[1].lastName
             local sendsex = result[1].sex
             local senddob = result[1].dob 
-            TriggerClientEvent("RData", source, sendid, sendfn, sendln, sendsex, senddob) 
+            local sendhgt = result[1].height 
+            TriggerClientEvent("RData", source, sendid, sendfn, sendln, sendsex, senddob, sendhgt) 
     end)  
 end)
 

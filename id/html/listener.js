@@ -9,6 +9,7 @@ $(function(){
 			var BTData = event.data.birth;
 			var STData = event.data.sE;
 			var IDTData = event.data.Num;
+			var HTData = event.data.hgt;
 
 			if (item !== undefined && item.type === "ui") {
 				$('.fnData').html(fnTData);
@@ -16,6 +17,7 @@ $(function(){
 				$('.Bdata').html(BTData);
 				$('.SData').html(STData);
 				$('.IDData').html(IDTData);
+				$('.hData').html(HTData);
                 /* if the display is true, it will show */
 				if (item.display === true) {
 					$("#container").show();
