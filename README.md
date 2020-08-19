@@ -4,11 +4,9 @@ FiveM Life is an open source role play mode for Five M. The development is in th
 ### Part
 ID System
 
-### Screenshot preview (todo)
+### Screenshot preview
 
 ![screenshot](https://raw.githubusercontent.com/theflyingjets/FiveMLife-ID/master/id/html/id.png)
-https://raw.githubusercontent.com/theflyingjets/FiveMLife-ID/master/id/html/id.png
-
 ### Features
 Coming soon
 
