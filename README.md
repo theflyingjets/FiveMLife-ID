@@ -6,7 +6,8 @@ ID System
 
 ### Screenshot preview (todo)
 
-![screenshot](Coming Soon)
+![screenshot](https://raw.githubusercontent.com/theflyingjets/FiveMLife-ID/master/id/html/id.png)
+https://raw.githubusercontent.com/theflyingjets/FiveMLife-ID/master/id/html/id.png
 
 ### Features
 Coming soon
